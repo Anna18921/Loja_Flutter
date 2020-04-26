@@ -1,5 +1,4 @@
-# layouts_flutter
+Criando Desginer de  um app de venda com Flutter 
 
-A new Flutter project.
 
-## Getting Started![lojaFlutter](https://user-images.githubusercontent.com/53823948/80312323-01f9be80-87bb-11ea-9218-ed3abbad1127.gif)
+![lojaFlutter](https://user-images.githubusercontent.com/53823948/80312461-c01d4800-87bb-11ea-88bf-d66bc0930c9e.gif)
